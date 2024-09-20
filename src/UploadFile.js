@@ -27,7 +27,9 @@ const handleUpload = async ()=>{
 
 return(
     <>
-  <input type="file" multiple onChange={handleFileChange} />
+    <label>select the folder</label>
+    <input type="file" directory="" webkitdirectory="" onChange={handleFileChange}/>
+  {/* <input type="file" multiple onChange={handleFileChange} /> */}
   <button type='submit' onClick={handleUpload}>File upload</button>
   </>
     )
