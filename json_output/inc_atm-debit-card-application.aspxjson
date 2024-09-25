@@ -1,0 +1,629 @@
+[
+  {
+    "tag": "html",
+    "text": "Apply for an ATM or Visa Debit Card\n        In order to apply for a card for your account, please complete the form below. If your card has been lost or stolen, or if you have any questions about completing the application, please call our service center at (xxx) xxx-xxxx.\n        General\n        \n            \n                Select Card Type\n                ATM Card\n                Visa Check / Debit Card\n            \n            Card Type\n        \n    \n    \n        Applicant\n        \n            \n            First Name\n        \n        \n            \n            Middle Initial\n        \n        \n            \n            Last Name\n        \n        \n            \n                Select Suffix\n                I\n                II\n                III\n                IV\n                Jr.\n                Sr.\n            \n            Suffix\n        \n        \n            \n            Social Security Number\n        \n        \n            \n            Birth Date\n        \n        \n            \n            Mother's Maiden Name\n        \n        \n            \n            Mailing Address\n        \n        \n            \n            City\n        \n        \n            \n                Select State\n                \n            \n            State\n        \n        \n            \n            Zip Code\n        \n        \n            \n            Home Phone Number\n        \n        \n            \n            Daytime Phone Number\n        \n        \n            \n            E-mail Address\n        \n        \n            \n            Please do NOT email me important news and updates.\n        \n        \n            How would you prefer to be contacted?\n            \n                \n                Home Phone\n            \n            \n                \n                Daytime Phone\n            \n            \n                \n                Email\n            \n            \n                \n                Other\n            \n        \n        \n            \n            Other Preference\n        \n    \n    \n        Authorization\n        By clicking the \"I Accept\" box below, the applicant(s) request(s) the described services and agrees to the terms and conditions governing the services, including any fees and charges. The applicant(s) agree(s) that all information is accurate and authorizes the financial institution to verify credit and employment history, if necessary, by any means, including preparation of a credit report by a credit agency. Check the \"I Accept\" box to indicate that you (the applicant) have read the agreement and accept its terms.\n        \n            \n            Yes, I agree to the Terms and Conditions\n        \n        Submit",
+    "attributes": {}
+  },
+  {
+    "tag": "head",
+    "text": "",
+    "attributes": {}
+  },
+  {
+    "tag": "body",
+    "text": "Apply for an ATM or Visa Debit Card\n        In order to apply for a card for your account, please complete the form below. If your card has been lost or stolen, or if you have any questions about completing the application, please call our service center at (xxx) xxx-xxxx.\n        General\n        \n            \n                Select Card Type\n                ATM Card\n                Visa Check / Debit Card\n            \n            Card Type\n        \n    \n    \n        Applicant\n        \n            \n            First Name\n        \n        \n            \n            Middle Initial\n        \n        \n            \n            Last Name\n        \n        \n            \n                Select Suffix\n                I\n                II\n                III\n                IV\n                Jr.\n                Sr.\n            \n            Suffix\n        \n        \n            \n            Social Security Number\n        \n        \n            \n            Birth Date\n        \n        \n            \n            Mother's Maiden Name\n        \n        \n            \n            Mailing Address\n        \n        \n            \n            City\n        \n        \n            \n                Select State\n                \n            \n            State\n        \n        \n            \n            Zip Code\n        \n        \n            \n            Home Phone Number\n        \n        \n            \n            Daytime Phone Number\n        \n        \n            \n            E-mail Address\n        \n        \n            \n            Please do NOT email me important news and updates.\n        \n        \n            How would you prefer to be contacted?\n            \n                \n                Home Phone\n            \n            \n                \n                Daytime Phone\n            \n            \n                \n                Email\n            \n            \n                \n                Other\n            \n        \n        \n            \n            Other Preference\n        \n    \n    \n        Authorization\n        By clicking the \"I Accept\" box below, the applicant(s) request(s) the described services and agrees to the terms and conditions governing the services, including any fees and charges. The applicant(s) agree(s) that all information is accurate and authorizes the financial institution to verify credit and employment history, if necessary, by any means, including preparation of a credit report by a credit agency. Check the \"I Accept\" box to indicate that you (the applicant) have read the agreement and accept its terms.\n        \n            \n            Yes, I agree to the Terms and Conditions\n        \n        Submit",
+    "attributes": {}
+  },
+  {
+    "tag": "form",
+    "text": "Apply for an ATM or Visa Debit Card\n        In order to apply for a card for your account, please complete the form below. If your card has been lost or stolen, or if you have any questions about completing the application, please call our service center at (xxx) xxx-xxxx.\n        General\n        \n            \n                Select Card Type\n                ATM Card\n                Visa Check / Debit Card\n            \n            Card Type\n        \n    \n    \n        Applicant\n        \n            \n            First Name\n        \n        \n            \n            Middle Initial\n        \n        \n            \n            Last Name\n        \n        \n            \n                Select Suffix\n                I\n                II\n                III\n                IV\n                Jr.\n                Sr.\n            \n            Suffix\n        \n        \n            \n            Social Security Number\n        \n        \n            \n            Birth Date\n        \n        \n            \n            Mother's Maiden Name\n        \n        \n            \n            Mailing Address\n        \n        \n            \n            City\n        \n        \n            \n                Select State\n                \n            \n            State\n        \n        \n            \n            Zip Code\n        \n        \n            \n            Home Phone Number\n        \n        \n            \n            Daytime Phone Number\n        \n        \n            \n            E-mail Address\n        \n        \n            \n            Please do NOT email me important news and updates.\n        \n        \n            How would you prefer to be contacted?\n            \n                \n                Home Phone\n            \n            \n                \n                Daytime Phone\n            \n            \n                \n                Email\n            \n            \n                \n                Other\n            \n        \n        \n            \n            Other Preference\n        \n    \n    \n        Authorization\n        By clicking the \"I Accept\" box below, the applicant(s) request(s) the described services and agrees to the terms and conditions governing the services, including any fees and charges. The applicant(s) agree(s) that all information is accurate and authorizes the financial institution to verify credit and employment history, if necessary, by any means, including preparation of a credit report by a credit agency. Check the \"I Accept\" box to indicate that you (the applicant) have read the agreement and accept its terms.\n        \n            \n            Yes, I agree to the Terms and Conditions\n        \n        Submit",
+    "attributes": {
+      "class": "fiserv-form",
+      "id": "the-form",
+      "name": "the-form",
+      "method": "post",
+      "action": "https://whstage1.secureinternetbank.com/secureforms/forms/fiserv/blank"
+    }
+  },
+  {
+    "tag": "header",
+    "text": "Apply for an ATM or Visa Debit Card\n        In order to apply for a card for your account, please complete the form below. If your card has been lost or stolen, or if you have any questions about completing the application, please call our service center at (xxx) xxx-xxxx.\n        General\n        \n            \n                Select Card Type\n                ATM Card\n                Visa Check / Debit Card\n            \n            Card Type",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "hidden",
+      "name": "submitClientID",
+      "value": "B71661D6-0CB6-4C9F-B468-2CEE36BE3877"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "hidden",
+      "name": "submitFormdesc",
+      "value": "ATM/Debit Card Application"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "hidden",
+      "name": "submitReDirect",
+      "value": "../forms/Fiserv/success.aspx"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "hidden",
+      "name": "secureFormParams",
+      "value": ""
+    }
+  },
+  {
+    "tag": "h1",
+    "text": "Apply for an ATM or Visa Debit Card",
+    "attributes": {}
+  },
+  {
+    "tag": "p",
+    "text": "In order to apply for a card for your account, please complete the form below. If your card has been lost or stolen, or if you have any questions about completing the application, please call our service center at (xxx) xxx-xxxx.",
+    "attributes": {}
+  },
+  {
+    "tag": "h2",
+    "text": "General",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Select Card Type\n                ATM Card\n                Visa Check / Debit Card\n            \n            Card Type",
+    "attributes": {}
+  },
+  {
+    "tag": "select",
+    "text": "Select Card Type\n                ATM Card\n                Visa Check / Debit Card",
+    "attributes": {
+      "name": "card-type",
+      "required": ""
+    }
+  },
+  {
+    "tag": "option",
+    "text": "Select Card Type",
+    "attributes": {
+      "value": ""
+    }
+  },
+  {
+    "tag": "option",
+    "text": "ATM Card",
+    "attributes": {}
+  },
+  {
+    "tag": "option",
+    "text": "Visa Check / Debit Card",
+    "attributes": {}
+  },
+  {
+    "tag": "span",
+    "text": "Card Type",
+    "attributes": {}
+  },
+  {
+    "tag": "section",
+    "text": "Applicant\n        \n            \n            First Name\n        \n        \n            \n            Middle Initial\n        \n        \n            \n            Last Name\n        \n        \n            \n                Select Suffix\n                I\n                II\n                III\n                IV\n                Jr.\n                Sr.\n            \n            Suffix\n        \n        \n            \n            Social Security Number\n        \n        \n            \n            Birth Date\n        \n        \n            \n            Mother's Maiden Name\n        \n        \n            \n            Mailing Address\n        \n        \n            \n            City\n        \n        \n            \n                Select State\n                \n            \n            State\n        \n        \n            \n            Zip Code\n        \n        \n            \n            Home Phone Number\n        \n        \n            \n            Daytime Phone Number\n        \n        \n            \n            E-mail Address\n        \n        \n            \n            Please do NOT email me important news and updates.\n        \n        \n            How would you prefer to be contacted?\n            \n                \n                Home Phone\n            \n            \n                \n                Daytime Phone\n            \n            \n                \n                Email\n            \n            \n                \n                Other\n            \n        \n        \n            \n            Other Preference",
+    "attributes": {}
+  },
+  {
+    "tag": "h2",
+    "text": "Applicant",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "First Name",
+    "attributes": {
+      "class": "two-thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "text",
+      "name": "applicant-first-name",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "First Name",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Middle Initial",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "text",
+      "name": "applicant-middle-initial"
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Middle Initial",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Last Name",
+    "attributes": {
+      "class": "two-thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "text",
+      "name": "applicant-last-name",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Last Name",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Select Suffix\n                I\n                II\n                III\n                IV\n                Jr.\n                Sr.\n            \n            Suffix",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "select",
+    "text": "Select Suffix\n                I\n                II\n                III\n                IV\n                Jr.\n                Sr.",
+    "attributes": {
+      "name": "applicant-suffix"
+    }
+  },
+  {
+    "tag": "option",
+    "text": "Select Suffix",
+    "attributes": {
+      "value": ""
+    }
+  },
+  {
+    "tag": "option",
+    "text": "I",
+    "attributes": {}
+  },
+  {
+    "tag": "option",
+    "text": "II",
+    "attributes": {}
+  },
+  {
+    "tag": "option",
+    "text": "III",
+    "attributes": {}
+  },
+  {
+    "tag": "option",
+    "text": "IV",
+    "attributes": {}
+  },
+  {
+    "tag": "option",
+    "text": "Jr.",
+    "attributes": {}
+  },
+  {
+    "tag": "option",
+    "text": "Sr.",
+    "attributes": {}
+  },
+  {
+    "tag": "span",
+    "text": "Suffix",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Social Security Number",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "class": "ssn",
+      "type": "text",
+      "name": "applicant-social-security-number",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Social Security Number",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Birth Date",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "class": "date",
+      "type": "text",
+      "name": "applicant-birth-date",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Birth Date",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Mother's Maiden Name",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "text",
+      "name": "applicant-mothers-maiden-name",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Mother's Maiden Name",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Mailing Address",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "text",
+      "name": "applicant-address",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Mailing Address",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "City",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "text",
+      "name": "applicant-city",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "City",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Select State\n                \n            \n            State",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "select",
+    "text": "Select State",
+    "attributes": {
+      "name": "applicant-state",
+      "required": ""
+    }
+  },
+  {
+    "tag": "option",
+    "text": "Select State",
+    "attributes": {
+      "value": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "State",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Zip Code",
+    "attributes": {
+      "class": "thirds"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "class": "zip",
+      "type": "text",
+      "name": "applicant-zip-code",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Zip Code",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Home Phone Number",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "tel",
+      "name": "applicant-home-phone",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Home Phone Number",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Daytime Phone Number",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "tel",
+      "name": "applicant-daytime-phone"
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Daytime Phone Number",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "E-mail Address",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "email",
+      "name": "applicant-email-address",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "E-mail Address",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Please do NOT email me important news and updates.",
+    "attributes": {
+      "data-expander": "applicant-email-address"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "checkbox",
+      "name": "applicant-do-not-email",
+      "value": "true"
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Please do NOT email me important news and updates.",
+    "attributes": {}
+  },
+  {
+    "tag": "fieldset",
+    "text": "How would you prefer to be contacted?\n            \n                \n                Home Phone\n            \n            \n                \n                Daytime Phone\n            \n            \n                \n                Email\n            \n            \n                \n                Other",
+    "attributes": {}
+  },
+  {
+    "tag": "legend",
+    "text": "How would you prefer to be contacted?",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Home Phone",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "radio",
+      "name": "applicant-contact-preference",
+      "value": "Home Phone",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Home Phone",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Daytime Phone",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "radio",
+      "name": "applicant-contact-preference",
+      "value": "Daytime Phone"
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Daytime Phone",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Email",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "radio",
+      "name": "applicant-contact-preference",
+      "value": "Email"
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Email",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Other",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "radio",
+      "name": "applicant-contact-preference",
+      "value": "Other"
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Other",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Other Preference",
+    "attributes": {
+      "data-expander": "applicant-contact-preference-3"
+    }
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "text",
+      "name": "applicant-contact-preference-other-text",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Other Preference",
+    "attributes": {}
+  },
+  {
+    "tag": "section",
+    "text": "Authorization\n        By clicking the \"I Accept\" box below, the applicant(s) request(s) the described services and agrees to the terms and conditions governing the services, including any fees and charges. The applicant(s) agree(s) that all information is accurate and authorizes the financial institution to verify credit and employment history, if necessary, by any means, including preparation of a credit report by a credit agency. Check the \"I Accept\" box to indicate that you (the applicant) have read the agreement and accept its terms.\n        \n            \n            Yes, I agree to the Terms and Conditions\n        \n        Submit",
+    "attributes": {}
+  },
+  {
+    "tag": "h2",
+    "text": "Authorization",
+    "attributes": {}
+  },
+  {
+    "tag": "p",
+    "text": "By clicking the \"I Accept\" box below, the applicant(s) request(s) the described services and agrees to the terms and conditions governing the services, including any fees and charges. The applicant(s) agree(s) that all information is accurate and authorizes the financial institution to verify credit and employment history, if necessary, by any means, including preparation of a credit report by a credit agency. Check the \"I Accept\" box to indicate that you (the applicant) have read the agreement and accept its terms.",
+    "attributes": {}
+  },
+  {
+    "tag": "label",
+    "text": "Yes, I agree to the Terms and Conditions",
+    "attributes": {}
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "attributes": {
+      "type": "checkbox",
+      "name": "authorization-agree",
+      "value": "true",
+      "required": ""
+    }
+  },
+  {
+    "tag": "span",
+    "text": "Yes, I agree to the Terms and Conditions",
+    "attributes": {}
+  },
+  {
+    "tag": "button",
+    "text": "Submit",
+    "attributes": {
+      "class": "Button1",
+      "type": "submit"
+    }
+  }
+]

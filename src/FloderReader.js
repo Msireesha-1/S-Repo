@@ -1,41 +1,37 @@
 import React, {useState} from "react";
+import axios from "axios";
 
 const FloderReader = () =>{
-    const [fileContents, setFileContents] = useState([])
+    const [files, setFiles] = useState([])
 
-    const handleFileChange = (e) =>{
-        const files = e.target.files;
-        const fileArray = Array.from(files);
-        console.log('fileArray result is:', fileArray)
-        const data = []
-        for (let i = 0; i < fileArray.length; i++){
-          data.push(fileArray[i].name)
-        }
-        console.log('data:',data)
-        const htmlfiles = data.filter((file)=>file.split('.')[1]==='html')
-        console.log('htmlfiles', htmlfiles)
-        const fileReaders = htmlfiles.map((file)=>{
-            return new Promise((resolve)=>{
-                const reader = new FileReader()
-                reader.onload = (e) =>{
-                    resolve({name:file.name, content: e.target.result})
-                }
-                reader.readAsText(file)
-            })
-        })
-        Promise.all(fileReaders).then((results)=>{setFileContents(results)})
+  const handleFileChange = (e) =>{setFiles(e.target.files)}
+
+  const handleUpload = async ()=>{
+    const formData = new FormData()
+    for (let file of files){
+        formData.append('files', file);
     }
+    try{
+        await axios.post('/api/upload',formData,{
+            headers:{
+                'content-type':'multipart/form-data'
+            }
+        });
+        alert("files uploaded successfully")
+    }catch(error){
+        console.error('Error uploading files', error);
+        alert('Failed to upload the files')
+    }
+}
+
+    
 return (
     <div>
-        <input type="file" webkitdirectory multiple onChange={handleFileChange} />
-      <h3>File Contents:</h3>
-      <ul>
-        {fileContents.map((file, index) => (
-          <li key={index}>
-            <strong>{file.name}:</strong> {file.content}
-          </li>
-        ))}
-      </ul>
+      <h1>Upload a folder</h1>
+      <label>select the folder</label>
+      <input directory="" webkitdirectory="" type="file"/>
+      {/* <button type="sumibt" onClick={getDir} >select folder</button>  */}
+      <button type="submit" >Upload</button>
     </div>
 )
 }
