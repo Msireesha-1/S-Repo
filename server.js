@@ -35,11 +35,11 @@ app.post('/api/upload', upload.array('files'),async(req, res)=>{
                 //    name: input.name,
                 //    value: input.value
                 // }));
-                const allElements = Array.from(dom.window.document.querySelectorAll('*'));
+                const allElements = Array.from(dom.window.document.querySelectorAll('form *'));
                 
                 const elements = allElements.map(element =>({
                     tag:element.tagName.toLowerCase(),
-                    text:element.textContent.trim(),
+                    text:element.textContent.trim().split('\n'),
                     attributes: Array.from(element.attributes).reduce((attrs, attr)=>{
                         attrs[attr.name] = attr.value;
                         return attrs;
