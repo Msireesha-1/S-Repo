@@ -21,6 +21,17 @@ const upload = multer({dest: 'uploads/'});
 app.use(express.json());
 app.use(express.static('public'));
 
+
+function getTagText(element){
+    let tag_text = "";
+    element.childNodes.forEach((node) => {
+        if (node.nodeType === 3 ){
+            tag_text += node.textContent.trim();
+   }
+});
+return tag_text;
+}
+
 app.post('/api/upload', upload.array('files'),async(req, res)=>{
     try{
         const files = req.files;
@@ -39,7 +50,8 @@ app.post('/api/upload', upload.array('files'),async(req, res)=>{
                 
                 const elements = allElements.map(element =>({
                     tag:element.tagName.toLowerCase(),
-                    text:element.textContent.trim().split('\n'),
+                    // text:element.textContent.trim().split('\n'),
+                    text: getTagText(element),
                     attributes: Array.from(element.attributes).reduce((attrs, attr)=>{
                         attrs[attr.name] = attr.value;
                         return attrs;
